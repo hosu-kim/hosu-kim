@@ -8,7 +8,7 @@
 ## 🛠️ Skills
 - <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="C"/> | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"/> | <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"/> | UNIX 🖥️
 - Creative variable naming 🧐
-- Speaking Korean to confused Czechs 🇰🇷➡️🇨🇿🤔
+- Speaking Korean to confuse Czechs 🇰🇷➡️🇨🇿🤔
 ## 🌱 Currently Learning
 - Advanced C tricks & low-level magic ✨
 - 42 Prague Core Curriculum (C Programming)
