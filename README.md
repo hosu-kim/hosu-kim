@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Hosu
+# 👋 안녕! I'm Hosu
 **C Developer 🔹 Python Enthusiast 🔹 42 Prague Student**
 
 ## 🚀 About Me
