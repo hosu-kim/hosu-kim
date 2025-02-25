@@ -13,5 +13,5 @@
 - Advanced C tricks & low-level magic ✨
 - 42 Prague Core Curriculum (C Programming)
 ## 📫 Contact Me
-- LinkedIn: [kim-hosu](https://www.linkedin.com/in/kim-hosu/)
+- LinkedIn: [kimhosu](https://www.linkedin.com/in/kimhosu/)
 - Email: hosu@outlook.cz
