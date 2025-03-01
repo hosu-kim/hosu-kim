@@ -12,6 +12,7 @@
 ## 🌱 Currently Learning
 - Advanced C tricks & low-level magic ✨
 - 42 Prague Core Curriculum (C Programming)
+- Bitter sweet life 🥲
 ## 📫 Contact Me
 - LinkedIn: [kimhosu](https://www.linkedin.com/in/kimhosu/)
 - Email: hosu@outlook.cz
