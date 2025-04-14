@@ -13,6 +13,7 @@
 ## 🌱 Currently Learning
 - Advanced C tricks & low-level magic ✨
 - 42 Prague Core Curriculum (C Programming)
+- Learning TypeScript on my own
 - Bittersweet life 🥲
 ## 📫 Contact Me
 - LinkedIn: [kimhosu](https://www.linkedin.com/in/kimhosu/)
