@@ -23,6 +23,6 @@
 - Learning TypeScript & React on my own
 - Bittersweet life 🥲
 
-## 📫 Contact Me
+## 📫 Contact Me & Stay Connected!
 - LinkedIn: [kimhosu](https://www.linkedin.com/in/kimhosu/)
 - Email: hosu@outlook.cz
