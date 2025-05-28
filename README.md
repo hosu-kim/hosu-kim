@@ -1,5 +1,5 @@
 # 👋 안녕! I'm Hosu
-**C Developer 🔹 Python Enthusiast 🔹 Typescript Learner 🔹 42 Prague Student**
+**C Developer 🔹 Teamplay Enjoyer 🔹 Typescript Lover 🔹 42 Prague Student**
 
 ## 🚀 About Me
 - I love solving problems (except when it's a segmentation fault... then I panic for a sec 🫠).
