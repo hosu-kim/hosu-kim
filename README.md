@@ -17,7 +17,7 @@
 - Creating cool variable names 🧐
 - Speaking Korean to confuse Czechs 🇰🇷➡️🇨🇿🤔
 
-## 🌱 Currently Learning
+## 🧑‍💻 I'm learning...
 - Advanced C tricks & low-level magic ✨
 - 42 Prague Core Curriculum (C Programming)
 - Learning TypeScript & React on my own
