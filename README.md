@@ -1,4 +1,4 @@
-# 👋 안녕! I'm Hosu
+# 안녕! I'm Hosu
 **C Developer 🔹 Teamplay Enjoyer 🔹 Typescript Lover 🔹 42 Prague Student**
 
 ## 🚀 About Me
