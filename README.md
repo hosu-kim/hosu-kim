@@ -14,8 +14,6 @@
   | <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"/>
   | <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"/>
 - UNIX 🖥️
-- Creating cool variable names 🧐
-- Speaking Korean to confuse Czechs 🇰🇷➡️🇨🇿🤔
 
 ## 🧑‍💻 I'm learning...
 - Advanced C tricks & low-level magic ✨
