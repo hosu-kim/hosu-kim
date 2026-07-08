@@ -1,5 +1,5 @@
 # 안녕! I'm Hosu
-**C / Typescript / Python Developer 🔹 42 Prague Student**
+**C / C++ / Python Developer 🔹 42 Prague Student**
 
 ## 🚀 About Me
 - I love solving problems (except when it's a segmentation fault... then I panic for a sec 🫠).
